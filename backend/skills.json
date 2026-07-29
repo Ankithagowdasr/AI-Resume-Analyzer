@@ -1,0 +1,130 @@
+{
+  "Programming Languages": [
+    "Python",
+    "Java",
+    "C",
+    "C++",
+    "C#",
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "Rust",
+    "PHP",
+    "Kotlin",
+    "Swift",
+    "SQL"
+  ],
+
+  "Frontend": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Tailwind CSS",
+    "React",
+    "Angular",
+    "Vue",
+    "Next.js",
+    "Redux",
+    "jQuery"
+  ],
+
+  "Backend": [
+    "Node.js",
+    "Express",
+    "Spring",
+    "Spring Boot",
+    "Django",
+    "Flask",
+    "FastAPI",
+    "Laravel",
+    ".NET",
+    "ASP.NET"
+  ],
+
+  "Databases": [
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Oracle",
+    "SQLite",
+    "MariaDB",
+    "Redis",
+    "Firebase",
+    "DBMS"
+  ],
+
+  "Cloud & DevOps": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "Git",
+    "GitHub",
+    "GitLab",
+    "Linux",
+    "CI/CD",
+    "Terraform",
+    "Ansible",
+    "Nginx"
+  ],
+
+  "Data Science": [
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Scikit-learn",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "OpenCV",
+    "XGBoost",
+    "LightGBM",
+    "EDA",
+    "Feature Engineering",
+    "Data Cleaning",
+    "Data Visualization",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+
+  "Machine Learning Algorithms": [
+    "Linear Regression",
+    "Logistic Regression",
+    "Decision Tree",
+    "Random Forest",
+    "KNN",
+    "K-Means",
+    "Naive Bayes",
+    "SVM",
+    "Gradient Boosting"
+  ],
+
+  "Tools": [
+    "Postman",
+    "JIRA",
+    "Confluence",
+    "Tableau",
+    "Power BI",
+    "Excel",
+    "VS Code",
+    "IntelliJ",
+    "PyCharm",
+    "Eclipse"
+  ],
+
+  "Concepts": [
+    "REST API",
+    "Microservices",
+    "OOP",
+    "Operating System",
+    "DBMS",
+    "Computer Networks",
+    "Data Structures",
+    "Algorithms",
+    "Agile",
+    "Scrum"
+  ]
+}

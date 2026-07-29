@@ -1,23 +1,20 @@
-# Python virtual environment
+# Python
 backend/venv/
-
-# Python cache files
-__pycache__/
+backend/__pycache__/
 *.pyc
 
-# Environment variables (API keys, secrets)
-.env
+# Environment variables
+backend/.env
 
-# VS Code settings
+# Uploaded resumes
+backend/uploads/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
 .vscode/
 
-# React dependencies
-frontend/node_modules/
-
-# Build folders
-dist/
-build/
-
-# Operating system files
+# OS files
 .DS_Store
-Thumbs.db
